@@ -439,7 +439,7 @@ trait_exd = {
 		always = no
 	}
 
-	allowed_archetypes = { OTHER }
+	# allowed_archetypes = { OTHER }
 	tags = { organic positive upkeep production research special }
 	# UNLOCKED: species_class = { EXD }
 	ai_weight = {
