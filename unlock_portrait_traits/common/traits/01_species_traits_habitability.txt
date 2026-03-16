@@ -470,10 +470,10 @@ trait_pc_gaia_preference_terraforming = {
 	short_name = "trait_pc_gaia_preference_terraforming_short"
 	ideal_planet_class = pc_gaia
 	allowed_archetypes = { BIOLOGICAL PRESAPIENT LITHOID }
-	initial = no
-	species_potential_add = {
-		always = no
-	}
+	# UNLOCKED: initial = no
+	# UNLOCKED: species_potential_add = {
+	# UNLOCKED: 	always = no
+	# UNLOCKED: }
 	species_possible_merge_add = {
 		always = yes
 	}
