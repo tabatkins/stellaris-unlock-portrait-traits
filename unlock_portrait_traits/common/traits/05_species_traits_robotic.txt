@@ -1903,7 +1903,8 @@ trait_robot_latent_psionic = {
 
 	opposites = { "trait_robot_digital_1" "trait_robot_digital_2" }
 
-	initial = no
+	# UNLOCKED: initial = no
+	initial = yes
 	randomized = no
 	species_potential_add = {
 		always = no

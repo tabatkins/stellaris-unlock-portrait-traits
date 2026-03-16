@@ -1241,7 +1241,8 @@ trait_latent_psionic = {
 
 	opposites = { "trait_cybernetic" }
 
-	initial = no
+	# UNLOCKED: initial = no
+	initial = yes
 	randomized = no
 	species_potential_add = {
 		always = no
@@ -1294,10 +1295,12 @@ trait_self_modified = {
 		always = no
 	}
 	species_possible_remove = {
-		always = no
+		# UNLOCKED: always = no
+		always = yes
 	}
 	species_possible_merge_add = {
-		always = no
+		# UNLOCKED: always = no
+		always = yes
 	}
 
 	allowed_archetypes = { BIOLOGICAL LITHOID }
