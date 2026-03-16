@@ -21,7 +21,7 @@ trait_tankbound = {
 
 	custom_tooltip_with_modifiers = trait_tankbound_effects
 
-	portrait_override = { nec9 tox13 psionic_07 inf4 }
+	# UNLOCKED: portrait_override = { nec9 tox13 psionic_07 inf4 }
 
 	triggered_pop_group_modifier = {
 		planet_pops_alloys_upkeep_mult = -0.5
@@ -58,7 +58,7 @@ trait_uncanny_intuition = {
 
 	allowed_archetypes = { BIOLOGICAL LITHOID }
 	# UNLOCKED: species_class = { PSIONIC }
-	portrait_override = { psionic_01 psionic_02 psionic_03 psionic_04 psionic_05 psionic_06 psionic_07 psionic_08 psionic_09 psionic_10 psionic_12 mindwarden_01 mam_rat }
+	# UNLOCKED: portrait_override = { psionic_01 psionic_02 psionic_03 psionic_04 psionic_05 psionic_06 psionic_07 psionic_08 psionic_09 psionic_10 psionic_12 mindwarden_01 mam_rat }
 	localized_tags = {
 		SPECIES_TRAIT_PSIONIC
 	}
@@ -103,7 +103,7 @@ trait_cranial_hypertrophy = {
 
 	allowed_archetypes = { BIOLOGICAL LITHOID }
 	# UNLOCKED: species_class = { PSIONIC }
-	portrait_override = { psionic_01 psionic_02 psionic_03 psionic_04 psionic_05 psionic_06 psionic_07 psionic_08 psionic_09 psionic_10 psionic_12 mindwarden_01 humanoid_hp_16 fun8 nec6 tox10 aqu12 mol7 tox13 mam_rat }
+	# UNLOCKED: portrait_override = { psionic_01 psionic_02 psionic_03 psionic_04 psionic_05 psionic_06 psionic_07 psionic_08 psionic_09 psionic_10 psionic_12 mindwarden_01 humanoid_hp_16 fun8 nec6 tox10 aqu12 mol7 tox13 mam_rat }
 	localized_tags = {
 		SPECIES_TRAIT_PSIONIC
 	}
@@ -148,7 +148,7 @@ trait_cranial_megatrophy = {
 
 	allowed_archetypes = { BIOLOGICAL LITHOID }
 	# UNLOCKED: species_class = { PSIONIC }
-	portrait_override = { psionic_01 psionic_02 psionic_03 psionic_04 psionic_05 psionic_06 psionic_07 psionic_08 psionic_09 psionic_10 psionic_12 mindwarden_01 humanoid_hp_16 fun8 nec6 tox10 aqu12 mol7 tox13 mam_rat }
+	# UNLOCKED: portrait_override = { psionic_01 psionic_02 psionic_03 psionic_04 psionic_05 psionic_06 psionic_07 psionic_08 psionic_09 psionic_10 psionic_12 mindwarden_01 humanoid_hp_16 fun8 nec6 tox10 aqu12 mol7 tox13 mam_rat }
 	localized_tags = {
 		SPECIES_TRAIT_PSIONIC
 	}
@@ -183,7 +183,7 @@ trait_haunting_visions = {
 
 	allowed_archetypes = { BIOLOGICAL LITHOID }
 	# UNLOCKED: species_class = { PSIONIC }
-	portrait_override = { psionic_01 psionic_02 psionic_03 psionic_04 psionic_05 psionic_06 psionic_07 psionic_08 psionic_09 psionic_10 psionic_12 mindwarden_01 mam_rat }
+	# UNLOCKED: portrait_override = { psionic_01 psionic_02 psionic_03 psionic_04 psionic_05 psionic_06 psionic_07 psionic_08 psionic_09 psionic_10 psionic_12 mindwarden_01 mam_rat }
 	localized_tags = {
 		SPECIES_TRAIT_PSIONIC
 	}

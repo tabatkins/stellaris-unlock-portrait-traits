@@ -2112,7 +2112,7 @@ trait_plantoid_budding = {
 			}
 		}
 	}
-	portrait_override = { aqu7 nec3 }
+	# UNLOCKED: portrait_override = { aqu7 nec3 }
 	tags = { organic positive plantoid fungoid pop_growth species }
 	custom_tooltip = TRAIT_PLANTOID_BUDDING_EFFECT
 
