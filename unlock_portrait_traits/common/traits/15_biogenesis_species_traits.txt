@@ -25,7 +25,7 @@ trait_egg_laying = {
 	}
 	opposites = { "trait_pyroclastic" "trait_slow_breeders" "trait_fertile" "trait_rapid_breeders_lithoid" "trait_plantoid_budding" "trait_lithoid_budding" "trait_vat_grown" "trait_tiyanki" "trait_humanoid_existential_iteroparity" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { REP AVI AQUATIC }
+	# UNLOCKED: species_class = { REP AVI AQUATIC }
 	localized_tags = {
 		SPECIES_TRAIT_AVIAN
 		SPECIES_TRAIT_REPTILIAN
@@ -117,7 +117,7 @@ trait_seasonal_dormancy = {
 	portrait_override = { fun16 fun4 mindwarden_01 }
 	opposites = { "trait_wasteful" "trait_conservational" "trait_low_maintenance" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { MAM REP }
+	# UNLOCKED: species_class = { MAM REP }
 	localized_tags = {
 		SPECIES_TRAIT_MAMMALIAN
 		SPECIES_TRAIT_REPTILIAN
@@ -167,7 +167,7 @@ trait_hollow_bones = {
 	}
 	opposites = { "trait_strong" "trait_very_strong" "trait_weak" "trait_tankbound" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { TOX AVI }
+	# UNLOCKED: species_class = { TOX AVI }
 	localized_tags = {
 		SPECIES_TRAIT_AVIAN
 		SPECIES_TRAIT_TOXOID
@@ -211,7 +211,7 @@ trait_rooted = {
 	}
 	opposites = { "trait_sedentary" "trait_nomadic" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { FUN PLANT }
+	# UNLOCKED: species_class = { FUN PLANT }
 	localized_tags = {
 		SPECIES_TRAIT_FUNGOID
 		SPECIES_TRAIT_PLANTOID
@@ -261,7 +261,7 @@ trait_acidic_vascularity = {
 		always = yes
 	}
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { NECROID TOX }
+	# UNLOCKED: species_class = { NECROID TOX }
 	localized_tags = {
 		SPECIES_TRAIT_NECROID
 		SPECIES_TRAIT_TOXOID
@@ -301,7 +301,7 @@ trait_shelled = {
 	}
 	opposites = { "trait_nonadaptive" "trait_adaptive" "trait_extremely_adaptive" "trait_robust" "trait_adaptive_lithoid" "trait_communal" "trait_spatial_mastery" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { MOL NECROID }
+	# UNLOCKED: species_class = { MOL NECROID }
 	localized_tags = {
 		SPECIES_TRAIT_MOLLUSCOID
 		SPECIES_TRAIT_NECROID
@@ -349,7 +349,7 @@ trait_camouflage = {
 	}
 	opposites = { "trait_nerve_stapled" "trait_natural_physicists" "trait_chromalogs" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { AQUATIC ART REP }
+	# UNLOCKED: species_class = { AQUATIC ART REP }
 	localized_tags = {
 		SPECIES_TRAIT_ARTHROPOID
 		SPECIES_TRAIT_REPTILIAN
@@ -403,7 +403,7 @@ trait_chromalogs = {
 	}
 	opposites = { "trait_nerve_stapled" "trait_natural_physicists" "trait_camouflage" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { AQUATIC ART REP }
+	# UNLOCKED: species_class = { AQUATIC ART REP }
 	localized_tags = {
 		SPECIES_TRAIT_ARTHROPOID
 		SPECIES_TRAIT_REPTILIAN
@@ -453,7 +453,7 @@ trait_brittle = {
 		}
 	}
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { LITHOID NECROID }
+	# UNLOCKED: species_class = { LITHOID NECROID }
 	localized_tags = {
 		SPECIES_TRAIT_LITHOID
 		SPECIES_TRAIT_NECROID
@@ -499,7 +499,7 @@ trait_familial = {
 	}
 	portrait_override = { fun16 fun4 lith_human lith_human_inf pla17 aqu5 }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { HUM MAM AVI }
+	# UNLOCKED: species_class = { HUM MAM AVI }
 	localized_tags = {
 		SPECIES_TRAIT_AVIAN
 		SPECIES_TRAIT_HUMANOID
@@ -548,7 +548,7 @@ trait_permeable_skin = {
 		pc_desert
 	}
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { MOL AQUATIC }
+	# UNLOCKED: species_class = { MOL AQUATIC }
 	localized_tags = {
 		SPECIES_TRAIT_MOLLUSCOID
 		SPECIES_TRAIT_AQUATIC
@@ -623,7 +623,7 @@ trait_genetic_memory = {
 	portrait_override = { fun16 fun4 lith_human lith_human_inf pla17 aqu5 }
 	opposites = { "trait_nonadaptive" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { HUM MAM NECROID }
+	# UNLOCKED: species_class = { HUM MAM NECROID }
 	localized_tags = {
 		SPECIES_TRAIT_HUMANOID
 		SPECIES_TRAIT_MAMMALIAN
@@ -663,7 +663,7 @@ trait_nascent_stage = {
 	portrait_override = { fun16 fun4 lith_human lith_human_inf pla17 aqu5 mindwarden_01 }
 	opposites = { "trait_slow_breeders" "trait_humanoid_psychological_infertility" "trait_unplugged_cybernetic_positives_3" "trait_unplugged_cybernetic_positives_2" "trait_unplugged_cybernetic_positives_1" "trait_pathogenic_genes" "trait_wilderness" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { HUM MAM REP ART }
+	# UNLOCKED: species_class = { HUM MAM REP ART }
 	localized_tags = {
 		SPECIES_TRAIT_ARTHROPOID
 		SPECIES_TRAIT_HUMANOID
@@ -702,7 +702,7 @@ trait_flight = {
 		always = yes
 	}
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { AVI ART }
+	# UNLOCKED: species_class = { AVI ART }
 	localized_tags = {
 		SPECIES_TRAIT_AVIAN
 		SPECIES_TRAIT_ARTHROPOID
@@ -743,7 +743,7 @@ trait_spatial_mastery = {
 		always = yes
 	}
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { AVI ART }
+	# UNLOCKED: species_class = { AVI ART }
 	localized_tags = {
 		SPECIES_TRAIT_AVIAN
 		SPECIES_TRAIT_ARTHROPOID
@@ -784,7 +784,7 @@ trait_spare_organs = {
 		always = yes
 	}
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { MOL NECROID TOX }
+	# UNLOCKED: species_class = { MOL NECROID TOX }
 	localized_tags = {
 		SPECIES_TRAIT_MOLLUSCOID
 		SPECIES_TRAIT_NECROID

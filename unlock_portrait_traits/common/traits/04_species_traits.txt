@@ -1584,7 +1584,7 @@ trait_lithoid_scintillating = {
 
 	opposites = { "trait_lithoid_volatile_excretions" "trait_lithoid_gaseous_byproducts" "trait_drake_scaled" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { LITHOID }
+	# UNLOCKED: species_class = { LITHOID }
 	localized_tags = {
 		SPECIES_TRAIT_LITHOID
 	}
@@ -1635,7 +1635,7 @@ trait_lithoid_gaseous_byproducts = {
 
 	opposites = { "trait_lithoid_volatile_excretions" "trait_lithoid_scintillating" "trait_drake_scaled" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { LITHOID }
+	# UNLOCKED: species_class = { LITHOID }
 	localized_tags = {
 		SPECIES_TRAIT_LITHOID
 	}
@@ -1686,7 +1686,7 @@ trait_lithoid_volatile_excretions = {
 
 	opposites = { "trait_lithoid_gaseous_byproducts" "trait_lithoid_scintillating" "trait_drake_scaled" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { LITHOID }
+	# UNLOCKED: species_class = { LITHOID }
 	localized_tags = {
 		SPECIES_TRAIT_LITHOID
 	}
@@ -1840,7 +1840,7 @@ trait_void_dweller_2 = {
 trait_plantoid_bloomed = {
 	host_has_dlc = "Plantoids Species Pack"
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { PLANT FUN }
+	# UNLOCKED: species_class = { PLANT FUN }
 	localized_tags = {
 		SPECIES_TRAIT_FUNGOID
 		SPECIES_TRAIT_PLANTOID
@@ -1947,7 +1947,7 @@ trait_plantoid_phototrophic = {
 	}
 	opposites = { "trait_plantoid_radiotrophic" "trait_voidling" "trait_cave_dweller" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { PLANT FUN }
+	# UNLOCKED: species_class = { PLANT FUN }
 	localized_tags = {
 		SPECIES_TRAIT_FUNGOID
 		SPECIES_TRAIT_PLANTOID
@@ -2001,7 +2001,7 @@ trait_plantoid_radiotrophic = {
 	}
 	opposites = { "trait_plantoid_phototrophic" "trait_voidling" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { PLANT FUN LITHOID INF }
+	# UNLOCKED: species_class = { PLANT FUN LITHOID INF }
 	localized_tags = {
 		SPECIES_TRAIT_FUNGOID
 		SPECIES_TRAIT_PLANTOID
@@ -2099,7 +2099,7 @@ trait_plantoid_budding = {
 	}
 	opposites = { "trait_pyroclastic" "trait_slow_breeders" "trait_rapid_breeders" "trait_rapid_breeders_lithoid" "trait_necrophage" "trait_clone_soldier_infertile" "trait_clone_soldier_infertile_full_potential" "trait_lithoid_budding" "trait_tiyanki" "trait_egg_laying" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { PLANT FUN }
+	# UNLOCKED: species_class = { PLANT FUN }
 	localized_tags = {
 		SPECIES_TRAIT_FUNGOID
 		SPECIES_TRAIT_PLANTOID
@@ -2154,7 +2154,7 @@ trait_invasive = {
 		always = no
 	}
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { PLANT FUN }
+	# UNLOCKED: species_class = { PLANT FUN }
 	localized_tags = {
 		SPECIES_TRAIT_FUNGOID
 		SPECIES_TRAIT_PLANTOID
@@ -2204,7 +2204,7 @@ trait_lithoid_budding = {
 	}
 	opposites = { "trait_pyroclastic" "trait_slow_breeders" "trait_rapid_breeders" "trait_rapid_breeders_lithoid" "trait_necrophage" "trait_clone_soldier_infertile" "trait_clone_soldier_infertile_full_potential" "trait_incubator" "trait_plantoid_budding" "trait_tiyanki" "trait_egg_laying" }
 	allowed_archetypes = { BIOLOGICAL LITHOID }
-	species_class = { LITHOID }
+	# UNLOCKED: species_class = { LITHOID }
 	localized_tags = {
 		SPECIES_TRAIT_LITHOID
 	}
