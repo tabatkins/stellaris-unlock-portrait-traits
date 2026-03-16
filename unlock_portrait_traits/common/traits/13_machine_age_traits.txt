@@ -35,8 +35,7 @@ trait_limited_cybernetic = {
 	icon = "gfx/interface/icons/traits/trait_limited_cybernetic.dds"
 
 	improves_leaders = yes
-	# UNLOCKED: initial = no
-	initial = yes
+	initial = no
 	randomized = no
 	species_potential_add = {
 		always = no
