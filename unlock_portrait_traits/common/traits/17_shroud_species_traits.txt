@@ -21,6 +21,8 @@ trait_tankbound = {
 
 	custom_tooltip_with_modifiers = trait_tankbound_effects
 
+	# UNLOCKED: Added an allowed_archetype to let it be used for everything
+	allowed_archetypes = { BIOLOGICAL LITHOID }
 	# UNLOCKED: portrait_override = { nec9 tox13 psionic_07 inf4 }
 
 	triggered_pop_group_modifier = {

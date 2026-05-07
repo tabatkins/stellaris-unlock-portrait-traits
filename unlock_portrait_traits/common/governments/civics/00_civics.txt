@@ -4128,15 +4128,16 @@ civic_tankbound = {
 				value = civic_tankbound_corporate
 			}
 		}
-		species_class = {
-			OR = {
-				text = tankbound_species_class_requirement
-				value = NECROID
-				value = TOX
-				value = AQUATIC
-				value = INF
-			}
-		}
+		# UNLOCKED:
+		# species_class = {
+		#	OR = {
+		#		text = tankbound_species_class_requirement
+		#		value = NECROID
+		#		value = TOX
+		#		value = AQUATIC
+		#		value = INF
+		#	}
+		# }
 	}
 
 	alternate_civic_version = civic_tankbound_corporate
