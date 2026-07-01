@@ -111,7 +111,7 @@ trait_unbreakable_resolve = {
 	icon = "gfx/interface/icons/traits/trait_unbreakable_resolve.dds"
 	custom_tooltip = trait_unbreakable_resolve_tooltip
 	slave_cost = {
-		energy = 1000
+		trade = 1000
 	}
 }
 
@@ -157,7 +157,7 @@ trait_shell_slag = {
 	icon = "gfx/interface/icons/traits/trait_shell_slag.dds"
 	custom_tooltip = trait_shell_slag_tooltip
 	slave_cost = {
-		energy = 500
+		trade = 500
 	}
 	resources = {
 		category = planet_pops
@@ -186,7 +186,7 @@ trait_robot_assembly_slag = {
 	icon = "gfx/interface/icons/traits/trait_robot_assembly_slag.dds"
 	custom_tooltip = trait_shell_slag_tooltip
 	slave_cost = {
-		energy = 500
+		trade = 500
 	}
 	resources = {
 		category = planet_pops
@@ -241,7 +241,7 @@ trait_pyroclastic = {
 	icon = "gfx/interface/icons/traits/trait_pyroclastic.dds"
 	custom_tooltip = trait_pyroclastic_tooltip
 	slave_cost = {
-		energy = 500
+		trade = 500
 	}
 	triggered_planet_growth_habitability_modifier = {
 		potential = {
@@ -296,7 +296,7 @@ trait_crucible_community = {
 	icon = "gfx/interface/icons/traits/trait_crucible_community.dds"
 	custom_tooltip = trait_crucible_community_tooltip
 	slave_cost = {
-		energy = 500
+		trade = 500
 	}
 }
 
