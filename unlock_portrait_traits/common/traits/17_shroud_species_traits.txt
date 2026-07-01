@@ -17,7 +17,7 @@ trait_tankbound = {
 	species_possible_merge_remove = {
 		always = no
 	}
-	opposites = { "trait_weak" "trait_hollow_bones" }
+	opposites = { "trait_weak" "trait_hollow_bones" "trait_photoadaptive" }
 
 	custom_tooltip_with_modifiers = trait_tankbound_effects
 
@@ -76,7 +76,7 @@ trait_uncanny_intuition = {
 	}
 
 	slave_cost = {
-		energy = 2000
+		trade = 2000
 	}
 }
 
@@ -122,7 +122,7 @@ trait_cranial_hypertrophy = {
 	}
 
 	slave_cost = {
-		energy = 1500
+		trade = 1500
 	}
 }
 
@@ -167,7 +167,7 @@ trait_cranial_megatrophy = {
 	}
 
 	slave_cost = {
-		energy = 2000
+		trade = 2000
 	}
 }
 
@@ -202,7 +202,7 @@ trait_haunting_visions = {
 	}
 
 	slave_cost = {
-		energy = -1000
+		trade = -1000
 	}
 }
 
