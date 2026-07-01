@@ -4,6 +4,7 @@ This is a simple Stellaris mod that removes portrait-based restrictions on vario
 For example, the "Flying" trait no longer requires an Avian portrait, or one of the specially-excepted flying lizard or insect portraits;
 the "Scintillating" trait no longer requires a Lithoid portrait;
 etc.
+(Currently up-to-date with Stellaris 4.4, Nomads expansion.)
 
 <img src="https://raw.githubusercontent.com/tabatkins/stellaris-unlock-portrait-traits/refs/heads/main/unlock_portrait_traits/thumbnail.png">
 
