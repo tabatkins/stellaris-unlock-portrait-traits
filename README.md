@@ -5,6 +5,8 @@ For example, the "Flying" trait no longer requires an Avian portrait, or one of 
 the "Scintillating" trait no longer requires a Lithoid portrait;
 etc.
 
+<img src="https://raw.githubusercontent.com/tabatkins/stellaris-unlock-portrait-traits/refs/heads/main/unlock_portrait_traits/thumbnail.png">
+
 Unlike several other trait-unlocking mods, this *does not* unlock *every* trait;
 there are a whole lot of event/origin/etc-locked traits that are not intended or balanced for species creation.
 It just unlocks the existing traits that are available at species creation,
